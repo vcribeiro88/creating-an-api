@@ -1,0 +1,31 @@
+
+{
+    "customerWallets": {
+        "data": [
+            {
+                "id": "512635182371236",
+                "name": "Cliente 149501",
+                "occupation": "Medico",
+                "state": "SP"
+            },
+            {
+                "id": "1234435543",
+                "name": "Cliente 252",
+                "occupation": "Analista de Sistemas",
+                "state": "SP"
+              },
+              {
+                "id": "1234435543",
+                "name": "Cliente 252",
+                "occupation": "Engenheiro",
+                "state": "SP"
+              },
+              {
+                "id": "5c522621-c62f-4180-a9e2-71bcc0f0cb19",
+                "name": "Vinicius de Oliveira 12345",
+                "occupation": "Engenheiro de software",
+                "state": "AM"
+              }
+        ]
+    }
+}
