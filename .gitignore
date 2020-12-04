@@ -1,4 +1,4 @@
 #Criando um gitignore
 
-#dependencies
 node_modules
+.env
