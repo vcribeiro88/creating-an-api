@@ -1,31 +1,26 @@
-
-{
-    "customerWallets": {
-        "data": [
-            {
-                "id": "512635182371236",
-                "name": "Vinícius de Oliveira",
-                "occupation": "Desenvolvedor",
-                "team": "Backend"
-            },
-            {
-                "id": "1234435543",
-                "name": "Gonzalo Ivan",
-                "occupation": "Desenvolvedor",
-                "team": "Backend"
-              },
-              {
-                "id": "1234435543",
-                "name": "Vinícius Alencar",
-                "occupation": "Desenvolvedor",
-                "team": "Backend"
-              },
-              {
-                "id": "5c522621-c62f-4180-a9e2-71bcc0f0cb19",
-                "name": "Luane dos Santos",
-                "occupation": "Desenvolvedor",
-                "team": "Backend"
-              }
-        ]
-    }
-}
+[
+  {
+    "id": "512635182371236",
+    "name": "Vinícius de Oliveira",
+    "occupation": "Desenvolvedor",
+    "team": "Backend"
+  },
+  {
+    "id": "1234435543",
+    "name": "Gonzalo Ivan",
+    "occupation": "Desenvolvedor",
+    "team": "Backend"
+  },
+  {
+    "id": "1234435543",
+    "name": "Vinícius Alencar",
+    "occupation": "Desenvolvedor",
+    "team": "Backend"
+  },
+  {
+    "id": "5c522621-c62f-4180-a9e2-71bcc0f0cb19",
+    "name": "Luane dos Santos",
+    "occupation": "Desenvolvedor",
+    "team": "Backend"
+  }
+]
