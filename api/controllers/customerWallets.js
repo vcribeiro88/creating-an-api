@@ -15,7 +15,7 @@ module.exports = () => {
             id: uuidv4(),
             name: req.body.name,
             occupation: req.body.occupation,
-            state: req.body.state,
+            team: req.body.team,
         });
 
         res.status(200).json(customerWalletsDB);
